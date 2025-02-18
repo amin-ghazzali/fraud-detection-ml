@@ -25,6 +25,4 @@ Nous utilisons le dataset **Bank Account Fraud (BAF)** de NeurIPS 2022, qui cont
    git clone https://github.com/amin-ghazzali/fraud-detection-ml.git
 
 ## 🔥 Améliorations Futures
-- Tester d’autres modèles de Machine Learning (Gradient Boosting, Deep Learning)
-- Optimisation des hyperparamètres via GridSearchCV pour améliorer la précision
 - Intégration d’une détection en temps réel avec un déploiement via Flask/FastAPI
